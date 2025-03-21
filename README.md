@@ -1,5 +1,6 @@
 🖐 Hệ thống nhận diện cử chỉ tay trong thời gian thực để điều khiển trình chiếu PowerPoint🎤
-DaiNam University Logo AIoTLab Logo
+DaiNam University ![Uploading image.png…]()
+
 
 Made by AIoTLab Fit DNU DaiNam University
 
